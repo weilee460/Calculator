@@ -76,7 +76,7 @@ class ViewController: UIViewController {
         isFloatingNumber = false
         hasInputNumberArray.append(displayValue)
         hasInputOperatorArray.append(sender.currentTitle!)
-        
+        //******************************************************
         //print("InputArray = \(hasInputNumberArray)")
         //print("InputOperatorArray = \(hasInputOperatorArray)")
     }
